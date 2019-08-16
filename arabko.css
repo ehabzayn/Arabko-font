@@ -1,9 +1,6 @@
 @font-face {
-    font-family: 'FrutigerLTArabic';
-    src: url('fonts/FrutigerLTArabic.eot');
-    src: url('fonts/FrutigerLTArabic.eot') format('embedded-opentype'),
-         url('fonts/FrutigerLTArabic.woff2') format('woff2'),
-         url('fonts/FrutigerLTArabic.woff') format('woff'),
-         url('fonts/FrutigerLTArabic.ttf') format('truetype'),
-         url('fonts/FrutigerLTArabic.svg#FrutigerLTArabic') format('svg');
-}
+font-family: 'iliass';
+src: url('http://www.kirsle.net/wizards/ttf2eot-temp/4e30e08c22a185ac7dba036ed1ffad9f/Hacen_Tunisia.eot');
+src: url('http://www.kirsle.net/wizards/ttf2eot-temp/4e30e08c22a185ac7dba036ed1ffad9f/Hacen_Tunisia.eot?') format('embedded-opentype'),
+url('https://4youpro.googlecode.com/files/Hacen%20Tunisia.woff') format('woff'),
+url('https://4youpro.googlecode.com/files/Hacen%20Tunisia.ttf') format('truetype'); }
